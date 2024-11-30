@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Eliana's 2nd E-Portfolio </title>
+   <link rel="stylesheet" href="eport.css">
+</head>
+<body>
+<ul class="ul">
+   <li><a class="active" href="eliana.html">Eliana</a></li>
+   <li><a class="active" href="quarter.html">Quarter</a></li>
+   <li><a class="active" href="lessons.html">Lessons</a></li>
+   <li><a class="active" href="reflection.html">Reflection</a></li>
+   <li><a class="active" href="events.html">Events</a></li>
+   <li><a class="active" href="randomthings.html"> Random things</a></li>
+</ul>
+
+<h1>
+WELCOME TO MY 2ND ICT E-PORTFOLIO
+</h1>
+
+<video controls>
+<source src="C:\Users\Jesusa Cuenca\Downloads\468585914_9207322279301456_2536749050586978564_n.mp4" type="video/mp4"
+</video>
+
+</body>
+</html>
