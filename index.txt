@@ -19,7 +19,7 @@ WELCOME TO MY 2ND ICT E-PORTFOLIO
 </h1>
 
 <video controls>
-<source src="hatdog.mp4" type="video/mp4"
+<source src="hatdog.mp4" type="video/mp4">
 </video>
 
 </body>
