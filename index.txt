@@ -9,7 +9,7 @@
    <li><a class="active" href="https://elyanahna.github.io/eliana/">Eliana</a></li>
    <li><a class="active" href="quarter.html">Quarter</a></li>
    <li><a class="active" href="lessons.html">Lessons</a></li>
-   <li><a class="active" href="reflection.html">Reflection</a></li>
+   <li><a class="active" href="https://elyanahna.github.io/reflection/">Reflection</a></li>
    <li><a class="active" href="events.html">Events</a></li>
    <li><a class="active" href="randomthings.html"> Random things</a></li>
 </ul>
